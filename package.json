@@ -20,8 +20,8 @@
   },
   "homepage": "https://github.com/joseph-onsip/deep-resolve",
   "devDependencies": {
-    "babel": "^5.8.21",
-    "eslint": "^1.1.0",
+    "babel": "^6.23.0",
+    "eslint": "^4.14.0",
     "native-promise-only": "^0.8.1",
     "tape": "^4.1.0"
   },
